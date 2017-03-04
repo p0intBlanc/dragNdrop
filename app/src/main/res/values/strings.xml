@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Playment</string>
+    <string name="hint">Click on any movie to select \n OR \n Long click to drag and drop</string>
+</resources>
